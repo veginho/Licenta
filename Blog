@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ro" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Blog - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","ianuarie","februarie","martie","aprilie","mai","iunie","iulie","august","septembrie","octombrie","noiembrie","decembrie"],"wgRequestId":"f11de2b7-9881-4e12-bbc0-d0467db5443f","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Blog","wgTitle":"Blog","wgCurRevisionId":15239404,"wgRevisionId":15239404,"wgArticleId":20404,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Internet","Bloguri","Anglicisme"],"wgPageContentLanguage":"ro","wgPageContentModel":"wikitext","wgRelevantPageName":"Blog","wgRelevantArticleId":20404,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[]
+,"wgVisualEditor":{"pageLanguageCode":"ro","pageLanguageDir":"ltr","pageVariantFallbacks":"ro"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":6000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":4,"wgULSCurrentAutonym":"română","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgDiscussionToolsFeaturesEnabled":{"replytool":false,"newtopictool":false,"sourcemodetoolbar":false,"topicsubscription":false,"autotopicsub":false,"visualenhancements":false,"visualenhancements_reply":false,"visualenhancements_pageframe":false},"wgDiscussionToolsFallbackEditMode":"visual","wgDiscussionToolsABTestBucket":"test","wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q30849","GEHomepageSuggestedEditsEnableTopics":true,
+"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","skins.vector.es6","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.wikidata-description",
+"ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.discussionTools.init","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ro&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022"/>
+<script async="" src="/w/load.php?lang=ro&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ro&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.17"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Blog - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ro.m.wikipedia.org/wiki/Blog"/>
+<link rel="alternate" type="application/x-wiki" title="Modificare" href="/w/index.php?title=Blog&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (ro)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ro.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ro.wikipedia.org/wiki/Blog"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector skin-vector-search-vue vector-toc-pinned mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Blog rootpage-Blog skin-vector-2022 action-view vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled"><div class="mw-page-container">
+	<a class="mw-jump-link" href="#bodyContent">Sari la conținut</a>
+	<div class="mw-page-container-inner">
+		<input
+			type="checkbox"
+			id="mw-sidebar-checkbox"
+			class="mw-checkbox-hack-checkbox"
+			>
+		<header class="mw-header mw-ui-icon-flush-left mw-ui-icon-flush-right">
+			<div class="vector-header-start">
+					<label
+				id="mw-sidebar-button"
+				class="mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element mw-ui-icon-flush-right"
+				for="mw-sidebar-checkbox"
+				role="button"
+				aria-controls="mw-panel"
+				data-event-name="ui.sidebar"
+				tabindex="0"
+				title="Meniul principal">
+				<span>Arată/ascunde bara laterală</span>
+			</label>
+		
+<a href="/wiki/Pagina_principal%C4%83" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt=""
+		aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia"
+			src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline"
+			alt="enciclopedia liberă"
+			src="/static/images/mobile/copyright/wikipedia-tagline-ro.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+			</div>
+			<div class="vector-header-end">
+				
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:C%C4%83utare"
+	
+		
+		
+		
+		title="Căutare în Wikipedia [c]"
+		accesskey="c"
+		class="mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search search-toggle">
+		<span>Căutare</span>
+	</a>
+	
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-moved">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Căutare în Wikipedia" aria-label="Căutare în Wikipedia" autocapitalize="sentences" title="Căutare în Wikipedia [c]" accesskey="c" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Căutare">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Caută în pagini pentru acest text" value="Căutare">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Deschide pagina cu acest nume, dacă există" value="Salt">
+			</div>
+		</form>
+	</div>
+</div>
+
+				<nav class="vector-user-links" aria-label="Unelte personale" role="navigation" >
+	
+
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow"  >
+	<div class="vector-menu-content">
+	    
+	    <ul class="vector-menu-content-list"><li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%C3%8Enregistrare&amp;returnto=Blog" title="Vă încurajăm să vă creați un cont și să vă autentificați; totuși, nu este obligatoriu"><span>Creare cont</span></a></li></ul>
+	    
+	</div>
+</div>
+
+	
+	<div id="p-personal" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-personal vector-user-menu vector-user-menu-logged-out"  title="Mai multe opțiuni" >
+		<input type="checkbox"
+			id="p-personal-checkbox"
+			role="button"
+			aria-haspopup="true"
+			data-event-name="ui.dropdown-p-personal"
+			class="vector-menu-checkbox "
+			
+			
+		/>
+		<label
+			id="p-personal-label"
+			for="p-personal-checkbox"
+			class="vector-menu-heading mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element mw-ui-icon-wikimedia-ellipsis"
+			
+		>
+			<span class="vector-menu-heading-label">Unelte personale</span>
+		</label>
+		<div class="vector-menu-content">
+	
+		<div class="vector-user-menu-create-account"><a href="/w/index.php?title=Special:%C3%8Enregistrare&amp;returnto=Blog" class="vector-menu-content-item user-links-collapsible-item" title="Vă încurajăm să vă creați un cont și să vă autentificați; totuși, nu este obligatoriu"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Creare cont</span></a></div>
+		<div class="vector-user-menu-login"><a href="/w/index.php?title=Special:Autentificare&amp;returnto=Blog" class="vector-menu-content-item vector-menu-content-item-login" title="Sunteți încurajat să vă autentificați, deși acest lucru nu este obligatoriu. [o]" accesskey="o"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Autentificare</span></a></div>
+		<div class="vector-user-menu-anon-editor">
+			<p>
+				Pagini pentru editorii neautentificați <a href="/wiki/Ajutor:Introduction" aria-label="Aflați mai mult despre editare"><span>aflați mai mult</span></a>
+			</p>
+		</div>
+				<ul class="vector-menu-content-list"><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:Discu%C8%9Biile_mele" title="Discuții despre editări pentru adresa IP curentă [n]" accesskey="n"><span>Discuții</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:Contribu%C8%9Biile_mele" title="O listă de modificări efectuate de la această adresă IP [y]" accesskey="y"><span>Contribuții</span></a></li></ul>
+	
+		</div>
+	</div></nav>
+
+			</div>
+		</header>
+		<div class="vector-main-menu-container ">
+			<div id="mw-navigation">
+				<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+						
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	
+    
+<div id="p-navigation" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-navigation"  >
+	<div
+		id="p-navigation-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">Navigare</span>
+	</div>
+	<div class="vector-menu-content">
+	    
+	    <ul class="vector-menu-content-list"><li id="n-mainpage" class="mw-list-item"><a href="/wiki/Pagina_principal%C4%83" title="Vedeți pagina principală [z]" accesskey="z"><span>Pagina principală</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:Schimb%C4%83ri_recente" title="Lista ultimelor schimbări realizate în acest wiki [r]" accesskey="r"><span>Schimbări recente</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Wikipedia:Cafenea" title="Informații despre evenimentele curente"><span>Cafenea</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Aleatoriu" title="Afișează o pagină aleatoare [x]" accesskey="x"><span>Articol aleatoriu</span></a></li><li id="n-Facebook" class="mw-list-item"><a href="https://www.facebook.com/WikipediaRomana" rel="nofollow"><span>Facebook</span></a></li></ul>
+	    
+	</div>
+</div>
+
+    
+    
+<div id="p-Participare" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-Participare"  >
+	<div
+		id="p-Participare-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">Participare</span>
+	</div>
+	<div class="vector-menu-content">
+	    
+	    <ul class="vector-menu-content-list"><li id="n-Cum-încep-pe-Wikipedia" class="mw-list-item"><a href="/wiki/Ajutor:Bun_venit"><span>Cum încep pe Wikipedia</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Ajutor:Cuprins" title="Locul în care găsiți ajutor"><span>Ajutor</span></a></li><li id="n-Portals" class="mw-list-item"><a href="/wiki/Portal:R%C4%83sfoire"><span>Portaluri tematice</span></a></li><li id="n-Articole-cerute" class="mw-list-item"><a href="/wiki/Wikipedia:Articole_cerute"><span>Articole cerute</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ro.wikipedia.org&amp;uselang=ro" title="Sprijiniți-ne"><span>Donații</span></a></li></ul>
+	    
+	</div>
+</div>
+
+<div id="p-tb" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-tb"  >
+	<div
+		id="p-tb-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">Trusa de unelte</span>
+	</div>
+	<div class="vector-menu-content">
+	    
+	    <ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:Ce_se_leag%C4%83_aici/Blog" title="Lista tuturor paginilor wiki care conduc spre această pagină [j]" accesskey="j"><span>Ce trimite aici</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:Modific%C4%83ri_corelate/Blog" rel="nofollow" title="Schimbări recente în legătură cu această pagină [k]" accesskey="k"><span>Schimbări corelate</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:Trimite_fi%C8%99ier" title="Încărcare fișiere [u]" accesskey="u"><span>Trimite fișier</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:Pagini_speciale" title="Lista tuturor paginilor speciale [q]" accesskey="q"><span>Pagini speciale</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Blog&amp;oldid=15239404" title="Legătura permanentă către această versiune a paginii"><span>Legătură permanentă</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Blog&amp;action=info" title="Mai multe informații despre această pagină"><span>Informații despre pagină</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:Citeaz%C4%83&amp;page=Blog&amp;id=15239404&amp;wpFormIdentifier=titleform" title="Informații cu privire la modul de citare a acestei pagini"><span>Citează acest articol</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q30849" title="Legătură către elementul asociat din depozitul de date [g]" accesskey="g"><span>Element Wikidata</span></a></li></ul>
+	    
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div
+		id="p-coll-print_export-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">Tipărire/exportare</span>
+	</div>
+	<div class="vector-menu-content">
+	    
+	    <ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Special:Carte&amp;bookcmd=book_creator&amp;referer=Blog"><span>Creare carte</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Blog&amp;action=show-download-screen"><span>Descărcare ca PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Blog&amp;printable=yes" title="Versiunea de tipărit a acestei pagini [p]" accesskey="p"><span>Versiune de tipărit</span></a></li></ul>
+	    
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-main-menu-group vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div
+		id="p-wikibase-otherprojects-label"
+		class="vector-menu-heading "
+		
+	>
+		<span class="vector-menu-heading-label">În alte proiecte</span>
+	</div>
+	<div class="vector-menu-content">
+	    
+	    <ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Blogs" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-wikibooks mw-list-item"><a href="https://ro.wikibooks.org/wiki/Blog" hreflang="ro"><span>Wikimanuale</span></a></li></ul>
+	    
+	</div>
+</div>
+
+    
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+	<div class="vector-main-menu-action-item">
+		<div class="vector-main-menu-action-heading vector-menu-heading">Limbi</div>
+		<div class="vector-main-menu-action-content vector-menu-content">
+			<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">Pe acest wiki Wikipedia, legăturile limbii sunt situate în partea de sus a paginii în rând cu titlul articolului. <a href="#p-lang-btn">Mergi sus</a>.</div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+				</nav>
+			</div>
+		</div>
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --> </div>
+		</div>
+		<input type="checkbox" id="vector-toc-collapsed-checkbox" class="mw-checkbox-hack-checkbox">
+		<div class="mw-table-of-contents-container">
+			<div id="vector-toc-pinned-container" class="vector-pinned-container">
+		<nav id="mw-panel-toc" class="sidebar-toc" role="navigation" aria-label="Cuprins" data-event-name="ui.sidebar-toc">
+	<div
+		class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+		data-name="vector-toc"
+		
+		
+		
+		
+	>
+		<h2 class="vector-pinnable-header-label">Cuprins</h2>
+		<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button">mută în bara laterală</button>
+		<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button">ascunde</button>
+	</div>
+	<ul class="sidebar-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="sidebar-toc-list-item sidebar-toc-level-1">
+			<a href="#" class="sidebar-toc-link">
+				<div class="sidebar-toc-text">Început</div>
+			</a>
+		</li>
+		<li id="toc-Statistici"
+			class="sidebar-toc-list-item sidebar-toc-level-1 sidebar-toc-list-item-expanded">
+			<a class="sidebar-toc-link" href="#Statistici">
+				<div class="sidebar-toc-text">
+				<span class="sidebar-toc-numb">1</span>Statistici</div>
+			</a>
+			
+			<ul id="toc-Statistici-sublist" class="sidebar-toc-list">
+			</ul>
+		</li>
+		<li id="toc-În_România"
+			class="sidebar-toc-list-item sidebar-toc-level-1 sidebar-toc-list-item-expanded">
+			<a class="sidebar-toc-link" href="#În_România">
+				<div class="sidebar-toc-text">
+				<span class="sidebar-toc-numb">2</span>În România</div>
+			</a>
+			
+			<ul id="toc-În_România-sublist" class="sidebar-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Note"
+			class="sidebar-toc-list-item sidebar-toc-level-1 sidebar-toc-list-item-expanded">
+			<a class="sidebar-toc-link" href="#Note">
+				<div class="sidebar-toc-text">
+				<span class="sidebar-toc-numb">3</span>Note</div>
+			</a>
+			
+			<ul id="toc-Note-sublist" class="sidebar-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Vezi_și"
+			class="sidebar-toc-list-item sidebar-toc-level-1 sidebar-toc-list-item-expanded">
+			<a class="sidebar-toc-link" href="#Vezi_și">
+				<div class="sidebar-toc-text">
+				<span class="sidebar-toc-numb">4</span>Vezi și</div>
+			</a>
+			
+			<ul id="toc-Vezi_și-sublist" class="sidebar-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Legături_externe"
+			class="sidebar-toc-list-item sidebar-toc-level-1 sidebar-toc-list-item-expanded">
+			<a class="sidebar-toc-link" href="#Legături_externe">
+				<div class="sidebar-toc-text">
+				<span class="sidebar-toc-numb">5</span>Legături externe</div>
+			</a>
+			
+			<ul id="toc-Legături_externe-sublist" class="sidebar-toc-list">
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+			</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<label
+						id="vector-toc-collapsed-button"
+						class="mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-flush-left mw-ui-icon-element mw-ui-icon-wikimedia-listBullet mw-checkbox-hack-button"
+						for="vector-toc-collapsed-checkbox"
+						role="button"
+						aria-controls="toc-toggle-list"
+						data-event-name="vector.toc-toggle-list"
+						tabindex="0"
+						title="Table of Contents">
+						Toggle the table of contents
+					</label>
+				
+					
+	<div id="vector-page-titlebar-toc" class="vector-menu vector-dropdown vector-menu-dropdown vector-page-titlebar-toc mw-ui-icon-flush-left"  >
+		<input type="checkbox"
+			id="vector-page-titlebar-toc-checkbox"
+			role="button"
+			aria-haspopup="true"
+			data-event-name="ui.dropdown-vector-page-titlebar-toc"
+			class="vector-menu-checkbox"
+			
+			
+		/>
+		<label
+			id="vector-page-titlebar-toc-label"
+			for="vector-page-titlebar-toc-checkbox"
+			class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-element mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"
+			
+		>
+			<span class="vector-menu-heading-label"></span>
+		</label>
+		<div class="vector-menu-content">
+	
+		<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+		</div>
+	
+		</div>
+	</div>
+				    <h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Blog</span></h1>
+				
+				            
+<div id="p-lang-btn" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang mw-ui-icon-flush-right"  >
+	<input type="checkbox"
+		id="p-lang-btn-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-lang-btn"
+		class="vector-menu-checkbox  mw-interlanguage-selector "
+		aria-label="Mergeți la un articol în altă limbă. Disponibil în 118 limbi"
+		
+	/>
+	<label
+		id="p-lang-btn-label"
+		for="p-lang-btn-checkbox"
+		class="vector-menu-heading mw-ui-progressive mw-portlet-lang-heading-118 mw-ui-button mw-ui-quiet"
+		
+	>
+		<span class="mw-ui-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span><span class="vector-menu-heading-label">118 limbi</span>
+	</label>
+	<div class="vector-menu-content">
+
+	<div class="vector-menu-content">
+	    
+	    <ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af badge-Q17437796 badge-featuredarticle mw-list-item" title="articol de calitate"><a href="https://af.wikipedia.org/wiki/Webjoernaal" title="Webjoernaal – afrikaans" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Blog" title="Blog – aragoneză" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%AF%D9%88%D9%86%D8%A9" title="مدونة – arabă" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%97" title="ব্লগ – asameză" lang="as" hreflang="as" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Blogue" title="Blogue – asturiană" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Bloq" title="Bloq – azeră" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-ba mw-list-item"><a href="https://ba.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3" title="Блог – bașkiră" lang="ba" hreflang="ba" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/Blog" title="Blog – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3" title="Блог – belarusă" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3" title="Блог – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3" title="Блог – bulgară" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bh mw-list-item"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%89%E0%A4%97" title="ब्लॉग – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target"><span>भोजपुरी</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%97" title="ব্লগ – bengaleză" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Blog" title="Blog – bretonă" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Blog" title="Blog – bosniacă" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Blog" title="Blog – catalană" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cdo mw-list-item"><a href="https://cdo.wikipedia.org/wiki/U%C5%8Dng-c%C3%A9" title="Uōng-cé – Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target"><span>閩東語 / Mìng-dĕ̤ng-ngṳ̄</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D8%A8%D9%84%DB%86%DA%AF" title="بلۆگ – kurdă centrală" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Blog" title="Blog – cehă" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Blog" title="Blog – galeză" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Blog" title="Blog – daneză" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Blog" title="Blog – germană" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%99%CF%83%CF%84%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF" title="Ιστολόγιο – greacă" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Blog" title="Blog – engleză" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Blogo" title="Blogo – esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Blog" title="Blog – spaniolă" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Ajaveeb" title="Ajaveeb – estonă" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Blog" title="Blog – bască" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%88%D8%A8%D9%84%D8%A7%DA%AF" title="وبلاگ – persană" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Blogi" title="Blogi – finlandeză" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fo mw-list-item"><a href="https://fo.wikipedia.org/wiki/Bloggur" title="Bloggur – feroeză" lang="fo" hreflang="fo" class="interlanguage-link-target"><span>Føroyskt</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Blog" title="Blog – franceză" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/Webloch" title="Webloch – frizonă occidentală" lang="fy" hreflang="fy" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Blag" title="Blag – irlandeză" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Blog" title="Blog – galiciană" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-glk mw-list-item"><a href="https://glk.wikipedia.org/wiki/%D9%88%D8%A8%D9%84%D8%A7%DA%AF" title="وبلاگ – Gilaki" lang="glk" hreflang="glk" class="interlanguage-link-target"><span>گیلکی</span></a></li><li class="interlanguage-link interwiki-gu mw-list-item"><a href="https://gu.wikipedia.org/wiki/%E0%AA%AC%E0%AB%8D%E0%AA%B2%E0%AB%89%E0%AA%97" title="બ્લૉગ – gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target"><span>ગુજરાતી</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%9C%D7%95%D7%92" title="בלוג – ebraică" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A4%BF%E0%A4%9F%E0%A5%8D%E0%A4%A0%E0%A4%BE" title="चिट्ठा – hindi" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Mre%C5%BEni_dnevnik" title="Mrežni dnevnik – croată" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Blog" title="Blog – maghiară" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D5%AC%D5%B8%D5%A3" title="Բլոգ – armeană" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/Blog" title="Blog – interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Blog" title="Blog – indoneziană" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ie mw-list-item"><a href="https://ie.wikipedia.org/wiki/Blog" title="Blog – interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target"><span>Interlingue</span></a></li><li class="interlanguage-link interwiki-ilo mw-list-item"><a href="https://ilo.wikipedia.org/wiki/Blog" title="Blog – iloko" lang="ilo" hreflang="ilo" class="interlanguage-link-target"><span>Ilokano</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Blogo" title="Blogo – ido" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Blogg" title="Blogg – islandeză" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Blog" title="Blog – italiană" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%82%B0" title="ブログ – japoneză" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Blog" title="Blog – javaneză" lang="jv" hreflang="jv" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98" title="ბლოგი – georgiană" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3" title="Блог – kazahă" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-km mw-list-item"><a href="https://km.wikipedia.org/wiki/%E1%9E%94%E1%9F%92%E1%9E%9B%E1%9E%BC%E1%9E%80" title="ប្លូក – khmeră" lang="km" hreflang="km" class="interlanguage-link-target"><span>ភាសាខ្មែរ</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%AC%E0%B3%8D%E0%B2%B2%E0%B2%BE%E0%B2%97%E0%B3%8D" title="ಬ್ಲಾಗ್ – kannada" lang="kn" hreflang="kn" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A1%9C%EA%B7%B8" title="블로그 – coreeană" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wikipedia.org/wiki/Blog" title="Blog – kurdă" lang="ku" hreflang="ku" class="interlanguage-link-target"><span>Kurdî</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Blog" title="Blog – latină" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Blog" title="Blog – luxemburgheză" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Blog" title="Blog – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lo mw-list-item"><a href="https://lo.wikipedia.org/wiki/%E0%BA%9A%E0%BA%A5%E0%BA%AD%E0%BA%81" title="ບລອກ – laoțiană" lang="lo" hreflang="lo" class="interlanguage-link-target"><span>ລາວ</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Tinklara%C5%A1tis" title="Tinklaraštis – lituaniană" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/T%C4%ABmek%C4%BCa_%C5%BEurn%C4%81ls" title="Tīmekļa žurnāls – letonă" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/Blaogy" title="Blaogy – malgașă" lang="mg" hreflang="mg" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-mhr mw-list-item"><a href="https://mhr.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3%D0%B5%D1%80" title="Блогер – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target"><span>Олык марий</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3" title="Блог – macedoneană" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%8D%E0%B4%B2%E0%B5%8B%E0%B4%97%E0%B5%8D" title="ബ്ലോഗ് – malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3" title="Блог – mongolă" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%A6%E0%A4%BF%E0%A4%A8%E0%A5%80" title="अनुदिनी – marathi" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Blog" title="Blog – malaeză" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-mt mw-list-item"><a href="https://mt.wikipedia.org/wiki/Blogg" title="Blogg – malteză" lang="mt" hreflang="mt" class="interlanguage-link-target"><span>Malti</span></a></li><li class="interlanguage-link interwiki-mwl mw-list-item"><a href="https://mwl.wikipedia.org/wiki/Blogue" title="Blogue – mirandeză" lang="mwl" hreflang="mwl" class="interlanguage-link-target"><span>Mirandés</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A4%97" title="ब्लग – nepaleză" lang="ne" hreflang="ne" class="interlanguage-link-target"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Blog" title="Blog – neerlandeză" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Blogg" title="Blogg – norvegiană nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Blogg" title="Blogg – norvegiană bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nqo mw-list-item"><a href="https://nqo.wikipedia.org/wiki/%DF%93%DF%91%DF%9F%DF%8F%DF%9C%DF%AD%DF%8D%DF%99" title="ߓߑߟߏߜ߭ߍߙ – n’ko" lang="nqo" hreflang="nqo" class="interlanguage-link-target"><span>ߒߞߏ</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Bl%C3%B2g" title="Blòg – occitană" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-os mw-list-item"><a href="https://os.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3" title="Блог – osetă" lang="os" hreflang="os" class="interlanguage-link-target"><span>Ирон</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A8%B2%E0%A8%BE%E0%A8%97" title="ਬਲਾਗ – punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Blog" title="Blog – poloneză" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Blog" title="Blog – portugheză" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3" title="Блог – rusă" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Blog" title="Blog – siciliană" lang="scn" hreflang="scn" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Blog" title="Blog – scots" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Blog" title="Blog – sârbo-croată" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%BA%E0%B7%94%E0%B6%AB%E0%B7%94_%E0%B7%83%E0%B6%A7%E0%B7%84%E0%B6%B1" title="වියුණු සටහන – singhaleză" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Blog" title="Blog – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Blog" title="Blog – slovacă" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Blog" title="Blog – slovenă" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-so mw-list-item"><a href="https://so.wikipedia.org/wiki/Buluug_(teknooloji)" title="Buluug (teknooloji) – somaleză" lang="so" hreflang="so" class="interlanguage-link-target"><span>Soomaaliga</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Ditari_Blog" title="Ditari Blog – albaneză" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3" title="Блог – sârbă" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/Blog" title="Blog – sundaneză" lang="su" hreflang="su" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Blogg" title="Blogg – suedeză" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Blogu" title="Blogu – swahili" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AE%BF%E0%AE%B5%E0%AF%81" title="வலைப்பதிவு – tamilă" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-te badge-Q17437796 badge-featuredarticle mw-list-item" title="articol de calitate"><a href="https://te.wikipedia.org/wiki/%E0%B0%AC%E0%B1%8D%E0%B0%B2%E0%B0%BE%E0%B0%97%E0%B1%81" title="బ్లాగు – telugu" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-tet mw-list-item"><a href="https://tet.wikipedia.org/wiki/Blog" title="Blog – tetum" lang="tet" hreflang="tet" class="interlanguage-link-target"><span>Tetun</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3" title="Блог – tadjică" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%81" title="บล็อก – thailandeză" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tk mw-list-item"><a href="https://tk.wikipedia.org/wiki/Blog" title="Blog – turkmenă" lang="tk" hreflang="tk" class="interlanguage-link-target"><span>Türkmençe</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Blog" title="Blog – tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Blog" title="Blog – turcă" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/Blog" title="Blog – tătară" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча/tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%B3" title="Блог – ucraineană" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%A8%D9%84%D8%A7%DA%AF" title="بلاگ – urdu" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Blog" title="Blog – uzbecă" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha/ўзбекча</span></a></li><li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/Blog" title="Blog – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target"><span>Vèneto</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Blog" title="Blog – vietnameză" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wa mw-list-item"><a href="https://wa.wikipedia.org/wiki/Waibe-blok" title="Waibe-blok – valonă" lang="wa" hreflang="wa" class="interlanguage-link-target"><span>Walon</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Blog" title="Blog – waray" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%8D%9A%E5%AE%A2" title="博客 – chineză wu" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-yi mw-list-item"><a href="https://yi.wikipedia.org/wiki/%D7%91%D7%9C%D7%90%D7%92" title="בלאג – idiș" lang="yi" hreflang="yi" class="interlanguage-link-target"><span>ייִדיש</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%AA%8C" title="網誌 – chineză" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-classical mw-list-item"><a href="https://zh-classical.wikipedia.org/wiki/%E7%B6%B2%E8%AA%8C" title="網誌 – Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target"><span>文言</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/B%C4%81ng-ch%C3%AC" title="Bāng-chì – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E7%B6%B2%E8%AA%8C" title="網誌 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li></ul>
+	    <div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q30849#sitelinks-wikipedia" title="Modifică legăturile interlinguale" class="wbc-editpage">Modifică legăturile</a></span></div>
+	</div>
+
+	</div>
+</div>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Spații de nume">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+	    
+	    <ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Blog" title="Vedeți conținutul paginii [a]" accesskey="a"><span>Articol</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Discu%C8%9Bie:Blog&amp;action=edit&amp;redlink=1" rel="discussion" title="Discuții despre această pagină — pagină inexistentă [t]" accesskey="t"><span>Discuție</span></a></li></ul>
+	    
+	</div>
+</div>
+
+								
+
+<div id="p-variants" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-label="Change language variant"
+		
+	/>
+	<label
+		id="p-variants-label"
+		for="p-variants-checkbox"
+		class="vector-menu-heading"
+		
+	>
+		<span class="vector-menu-heading-label">română</span>
+	</label>
+	<div class="vector-menu-content">
+
+	<div class="vector-menu-content">
+	    
+	    <ul class="vector-menu-content-list"></ul>
+	    
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Vizualizări">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+	    
+	    <ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Blog"><span>Lectură</span></a></li><li id="ca-ve-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Blog&amp;veaction=edit" title="Modificați această pagină cu EditorulVizual [v]" accesskey="v"><span>Modificare</span></a></li><li id="ca-edit" class="collapsible vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Blog&amp;action=edit" title="Modificați această pagină [e]" accesskey="e"><span>Modificare sursă</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Blog&amp;action=history" title="Versiunile anterioare ale paginii și autorii lor. [h]" accesskey="h"><span>Istoric</span></a></li></ul>
+	    
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Mai multe opțiuni">
+								
+
+<div id="p-cactions" class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Mai multe opțiuni" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		
+		
+	/>
+	<label
+		id="p-cactions-label"
+		for="p-cactions-checkbox"
+		class="vector-menu-heading"
+		
+	>
+		<span class="vector-menu-heading-label">Mai mult</span>
+	</label>
+	<div class="vector-menu-content">
+
+	<div class="vector-menu-content">
+	    
+	    <ul class="vector-menu-content-list"><li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Blog"><span>Lectură</span></a></li><li id="ca-more-ve-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Blog&amp;veaction=edit"><span>Modificare</span></a></li><li id="ca-more-edit" class="collapsible vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Blog&amp;action=edit"><span>Modificare sursă</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Blog&amp;action=history"><span>Istoric</span></a></li></ul>
+	    
+	</div>
+
+	</div>
+</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+				
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+					        <div class="mw-indicators">
+        </div>
+
+					    <div id="siteSub" class="noprint">De la Wikipedia, enciclopedia liberă</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ro" dir="ltr"><div class="mw-parser-output"><p>Un <b>blog</b> (cuvânt provenit de la expresia <a href="/wiki/Englez%C4%83" class="mw-redirect" title="Engleză">engleză</a> <i>web log</i> = jurnal pe <a href="/wiki/Internet" title="Internet">Internet</a>) este o <a href="/wiki/Publica%C8%9Bie" title="Publicație">publicație</a> <a href="/wiki/Web" class="mw-redirect" title="Web">web</a> (un text scris) care conține articole periodice sau și actualizate neîntrerupt ce au de obicei un caracter personal. Ca regulă, actualizarea blog-urilor constă în adăugiri de texte noi, asemenea unui jurnal, toate contribuțiile fiind afișate în ordine cronologică inversă (cele mai noi apar imediat, sus, la vedere). Acest gen de publicații web sunt în principiu accesibile publicului larg, însă unele pot fi contra cost.
+</p><p>Termenul de "blog" a apărut în anul 1997, când <a href="/w/index.php?title=John_Berger&amp;action=edit&amp;redlink=1" class="new" title="John Berger — pagină inexistentă">John Berger</a> și-a denumit propriul site "weblog".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Dacă la început blog-urile erau actualizate manual, cu timpul au apărut „unelte” (programe și metode) care să automatizeze acest proces. Utilizarea unui astfel de <a href="/wiki/Software" title="Software">software</a> bazat pe <a href="/wiki/Browser" class="mw-redirect" title="Browser">browser-e</a> Internet este acum un aspect obișnuit al <i>blogging</i>-ului.
+</p><p>Există mai multe platforme pentru blog-uri, de exemplu: <a href="/wiki/Wordpress" class="mw-redirect" title="Wordpress">Wordpress</a> (cea mai cunoscută și folosită platformă de <i>blogging</i>), <a href="/w/index.php?title=Blogspot&amp;action=edit&amp;redlink=1" class="new" title="Blogspot — pagină inexistentă">Blogspot</a>, <a href="/wiki/Blogger" title="Blogger">Blogger</a> ș.a.
+</p><p>Scopul blog-urilor variază foarte mult, de la jurnale personale și până la „armele” publicitare ale campaniilor politice, ale programelor <a href="/wiki/Mass_media" class="mw-redirect" title="Mass media">media</a> sau ale diverselor companii comerciale. De asemenea, ele variază și în funcție de autor - de la unul singur la o comunitate întreagă. Blogurile pot constitui și o sursă importantă de venituri pentru cei care le administrează, prin publicarea de reclame (banner publicitar) sau <a href="/wiki/Advertorial" title="Advertorial">advertoriale</a>.
+</p><p>Multe blog-uri permit vizitatorilor lor să răspundă prin comentarii, care sunt și ele publice, creându-se astfel o comunitate de cititori centrată în jurul blog-ului; alte blog-uri nu sunt interactive.
+</p><p>Totalitatea blog-urilor și a autorilor de blog-uri a fost denumită „<a href="/w/index.php?title=Blogosfer%C4%83&amp;action=edit&amp;redlink=1" class="new" title="Blogosferă — pagină inexistentă">blogosferă</a>”. Vezi, de exemplu, <a href="/wiki/Blogosfera_rom%C3%A2neasc%C4%83" title="Blogosfera românească">blogosfera românească</a> și cea <a href="/wiki/Blogosfera_moldoveneasc%C4%83" title="Blogosfera moldovenească">moldovenească</a>. Pe lângă asta, blog-urile constituie una din numeroasele fațete ale fenomenului numit <a href="/wiki/Web_2.0" title="Web 2.0">Web 2.0</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Statistici">Statistici</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blog&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifică secțiunea: Statistici">modificare</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Blog&amp;action=edit&amp;section=1" title="Modifică secțiunea: Statistici">modificare sursă</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>În februarie 2006 în întreaga lume existau aproximativ 27,2 milioane de blog-uri<sup id="cite_ref-cp2011-06-23_2-0" class="reference"><a href="#cite_note-cp2011-06-23-2">&#91;2&#93;</a></sup>,
+față de 8 milioane în august 2005<sup id="cite_ref-cp2011-09-20_3-0" class="reference"><a href="#cite_note-cp2011-09-20-3">&#91;3&#93;</a></sup>.
+În iulie 2011 numărul de blog-uri la nivel global ajunsese la 164 milioane<sup id="cite_ref-nb2011-09-21_4-0" class="reference"><a href="#cite_note-nb2011-09-21-4">&#91;4&#93;</a></sup>.
+Din acestea, 29&#160;% erau din <a href="/wiki/Uniunea_European%C4%83" title="Uniunea Europeană">Uniunea Europeană</a> și 49&#160;% din <a href="/wiki/SUA" class="mw-redirect" title="SUA">SUA</a><sup id="cite_ref-nb2011-09-21_4-1" class="reference"><a href="#cite_note-nb2011-09-21-4">&#91;4&#93;</a></sup>.
+</p>
+<h2><span id=".C3.8En_Rom.C3.A2nia"></span><span class="mw-headline" id="În_România">În România</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blog&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifică secțiunea: În România">modificare</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Blog&amp;action=edit&amp;section=2" title="Modifică secțiunea: În România">modificare sursă</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>În anul 2012, în <a href="/wiki/Rom%C3%A2nia" title="România">România</a> existau aproximativ 12.000 de bloguri active, iar industria blogosferei din România a atras, în 2011, peste 600.000 de euro.<sup id="cite_ref-cp2012-05-04_5-0" class="reference"><a href="#cite_note-cp2012-05-04-5">&#91;5&#93;</a></sup>
+</p><p>În februarie 2019, numărul total de bloguri din România era de 96.431, dintre care 6.273 active (cu cel puțin un articol în ultimele 30 de zile).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Note">Note</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blog&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifică secțiunea: Note">modificare</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Blog&amp;action=edit&amp;section=3" title="Modifică secțiunea: Note">modificare sursă</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140219144817/http://socialmediatoday.com/douglaskarr/1696221/infographic-blogconomy-blogging-statistics">„copie arhivă”</a>. Arhivat din <a rel="nofollow" class="external text" href="http://socialmediatoday.com/douglaskarr/1696221/infographic-blogconomy-blogging-statistics">original</a> la <time datetime="2014-02-19">19 februarie 2014</time><span class="reference-accessdate">. Accesat în <time datetime="2014-02-06">6 februarie 2014</time></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=copie+arhiv%C4%83&amp;rft_id=http%3A%2F%2Fsocialmediatoday.com%2Fdouglaskarr%2F1696221%2Finfographic-blogconomy-blogging-statistics&amp;rfr_id=info%3Asid%2Fro.wikipedia.org%3ABlog" class="Z3988"><span style="display:none;">&#160;</span></span><style data-mw-deduplicate="TemplateStyles:r15004982">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-cp2011-06-23-2"><b><a href="#cite_ref-cp2011-06-23_2-0">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wall-street.ro/articol/IT-C-Tehnologie/10897/Numarul-blogurilor-a-crescut-de-60-de-ori-in-ultimii-trei-ani.html">Numarul blog-urilor a crescut de 60 de ori in ultimii trei ani</a>, 9 februarie 2006, wall-stret.ro, accesat la 23 iunie 2011</span>
+</li>
+<li id="cite_note-cp2011-09-20-3"><b><a href="#cite_ref-cp2011-09-20_3-0">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wall-street.ro/articol/IT-C-Tehnologie/5517/Bagatul-in-seama-online-se-plateste-bine.html">Bagatul in seama online se plateste bine</a>, Valeria Toma, 11 august 2005, wall-stret.ro, accesat la 20 septembrie 2011</span>
+</li>
+<li id="cite_note-nb2011-09-21-4">^ <a href="#cite_ref-nb2011-09-21_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nb2011-09-21_4-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wall-street.ro/articol/New-Media/109636/INFOGRAFIC-Cum-arata-blogosfera-si-cati-blogeri-castiga-din-aceasta-activitate.html">&#91;INFOGRAFIC&#93; Cum arata blogosfera si cati blogeri castiga din aceasta activitate</a>, Alex Goaga, 21 septembrie 2011, wall-stret.ro, accesat la 21 septembrie 2011</span>
+</li>
+<li id="cite_note-cp2012-05-04-5"><b><a href="#cite_ref-cp2012-05-04_5-0">^</a></b> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.evz.ro/detalii/stiri/blogareala-afacere-de-zeci-de-mii-de-euro-979526.html">Blogăreala, afacere de zeci de mii de euro</a>, 2 mai 2012, Andreea Ciulac, <i>Evenimentul zilei</i>, accesat la 4 mai 2012</span>
+</li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <span class="reference-text"><cite class="citation web">Cristian Florea. <a rel="nofollow" class="external text" href="https://cristianflorea.ro/statistici-social-media-romania-februarie-2019/">„Statistici Social Media în România &#91;infografic – februarie 2019&#93;”</a><span class="reference-accessdate">. Accesat în <time datetime="2019-04-10">10 aprilie 2019</time></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Statistici+Social+Media+%C3%AEn+Rom%C3%A2nia+%5Binfografic+%E2%80%93+februarie+2019%5D&amp;rft.au=Cristian+Florea&amp;rft_id=https%3A%2F%2Fcristianflorea.ro%2Fstatistici-social-media-romania-februarie-2019%2F&amp;rfr_id=info%3Asid%2Fro.wikipedia.org%3ABlog" class="Z3988"><span style="display:none;">&#160;</span></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15004982"/></span>
+</li>
+</ol></div>
+<h2><span id="Vezi_.C8.99i"></span><span class="mw-headline" id="Vezi_și">Vezi și</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blog&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifică secțiunea: Vezi și">modificare</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Blog&amp;action=edit&amp;section=4" title="Modifică secțiunea: Vezi și">modificare sursă</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List%C4%83_de_bloguri" title="Listă de bloguri">Listă de bloguri</a></li></ul>
+<h2><span id="Leg.C4.83turi_externe"></span><span class="mw-headline" id="Legături_externe">Legături externe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blog&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifică secțiunea: Legături externe">modificare</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Blog&amp;action=edit&amp;section=5" title="Modifică secțiunea: Legături externe">modificare sursă</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span style="border:solid 1px #44A; background-color:#EEF; font-family:monospace; color:#008; font-size:0.9em; padding:0px 4px 2px 4px; position:relative; bottom:0.2em; cursor:help;" title="Limba engleză">en</span>  <a rel="nofollow" class="external text" href="http://www.ojr.org/ojr/images/blog_software_comparison.cfm">Informații despre diferite platforme de blogging</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.evz.ro/detalii/stiri/oameni-care-traiesc-din-blogging-889343.html">Oameni care trăiesc din blogging</a>, 13 martie 2010, Andreea Strachină, <i>Evenimentul zilei</i></li>
+<li><a rel="nofollow" class="external text" href="http://www.zf.ro/ziarul-de-duminica/reportaj-experiente-si-experimente-pe-blog-6865653/">REPORTAJ/ Experiențe și experimente pe blog</a>, 12 august 2010, Stan Constantin, <i>Ziarul de Duminică</i></li>
+<li><a rel="nofollow" class="external text" href="http://www.zf.ro/ziarul-de-duminica/blog-de-alexandru-ciolan-8418108/">Blog</a>, 1 iulie 2011, Alexandru Ciolan, <i>Ziarul de Duminică</i></li>
+<li><a rel="nofollow" class="external text" href="http://ziarullumina.ro/reportaj/blogul-un-nou-trend-arta-conversatiei">Blogul, un nou trend în arta conversației</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131205023027/http://ziarullumina.ro/reportaj/blogul-un-nou-trend-arta-conversatiei">Arhivat</a> în <time datetime="2013-12-05">5 decembrie 2013</time>, la <a href="/wiki/Wayback_Machine" class="mw-redirect" title="Wayback Machine">Wayback Machine</a>., 1 noiembrie 2007, Oana Nistor, <i>Ziarul Lumina</i></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Jurnalism" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Format:Jurnalism" title="Format:Jurnalism"><abbr title="Vizualizează acest format" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Discu%C8%9Bie_Format:Jurnalism&amp;action=edit&amp;redlink=1" class="new" title="Discuție Format:Jurnalism — pagină inexistentă"><abbr title="Discută acest format" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">d</abbr></a></li><li class="nv-edit"><a class="external text" href="https://ro.wikipedia.org/w/index.php?title=Format:Jurnalism&amp;action=edit"><abbr title="Modifică acest format" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">m</abbr></a></li></ul></div><div id="Jurnalism" style="font-size:100%;margin:0 4em"><a href="/wiki/Jurnalism" title="Jurnalism">Jurnalism</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Roluri</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jurnalist" title="Jurnalist">Jurnalist</a></li>
+<li><a href="/wiki/Jurnalist" title="Jurnalist">Reporter</a></li>
+<li><a href="/w/index.php?title=Editarea&amp;action=edit&amp;redlink=1" class="new" title="Editarea — pagină inexistentă">Editor</a></li>
+<li><a href="/wiki/Cronicar" title="Cronicar">Cronicar</a></li>
+<li><a href="/w/index.php?title=Copy_editing&amp;action=edit&amp;redlink=1" class="new" title="Copy editing — pagină inexistentă">Copy editor</a></li>
+<li><a href="/wiki/Meteorologie" title="Meteorologie">Meteorolog</a></li>
+<li><a href="/w/index.php?title=Prezentator_de_%C8%99tiri&amp;action=edit&amp;redlink=1" class="new" title="Prezentator de știri — pagină inexistentă">Prezentator de știri</a></li>
+<li><a href="/w/index.php?title=Fotojurnalism&amp;action=edit&amp;redlink=1" class="new" title="Fotojurnalism — pagină inexistentă">Fotograf</a></li>
+<li><a href="/wiki/Comentator" title="Comentator">Comentator politic</a></li>
+<li><a class="mw-selflink selflink">Blogger</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Profesie</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%C8%98tiri" class="mw-redirect" title="Știri">Știri</a></li>
+<li><a href="/w/index.php?title=Stil_de_%C8%99tire&amp;action=edit&amp;redlink=1" class="new" title="Stil de știre — pagină inexistentă">Stil de știre</a></li>
+<li><a href="/w/index.php?title=Etica_%C8%99i_standardele_jurnalistice&amp;action=edit&amp;redlink=1" class="new" title="Etica și standardele jurnalistice — pagină inexistentă">Etica</a></li>
+<li><a href="/w/index.php?title=Obiectivitatea_jurnalistic%C4%83&amp;action=edit&amp;redlink=1" class="new" title="Obiectivitatea jurnalistică — pagină inexistentă">Obiectivitatea</a></li>
+<li><a href="/w/index.php?title=Notabilitatea_%C8%99tirilor&amp;action=edit&amp;redlink=1" class="new" title="Notabilitatea știrilor — pagină inexistentă">Valori</a></li>
+<li><a href="/w/index.php?title=Sursa_(jurnalism)&amp;action=edit&amp;redlink=1" class="new" title="Sursa (jurnalism) — pagină inexistentă">Atribuire</a></li>
+<li><a href="/wiki/Def%C4%83imare" title="Defăimare">Defăimare</a></li>
+<li><a href="/w/index.php?title=Independen%C8%9B%C4%83_editorial%C4%83&amp;action=edit&amp;redlink=1" class="new" title="Independență editorială — pagină inexistentă">Independență editorială</a></li>
+<li><a href="/w/index.php?title=%C8%98coala_de_jurnalism&amp;action=edit&amp;redlink=1" class="new" title="Școala de jurnalism — pagină inexistentă">Școala de jurnalism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Domenii</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Arta_jurnalistic%C4%83&amp;action=edit&amp;redlink=1" class="new" title="Arta jurnalistică — pagină inexistentă">Arta</a></li>
+<li><a href="/w/index.php?title=Jurnalism_de_afaceri&amp;action=edit&amp;redlink=1" class="new" title="Jurnalism de afaceri — pagină inexistentă">Afaceri</a></li>
+<li><a href="/w/index.php?title=Jurnalism_bazat_pe_date&amp;action=edit&amp;redlink=1" class="new" title="Jurnalism bazat pe date — pagină inexistentă">Pe bază de date</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_de_divertisment&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul de divertisment — pagină inexistentă">Divertisment</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_de_mediu&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul de mediu — pagină inexistentă">Mediu</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_de_mod%C4%83&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul de modă — pagină inexistentă">Modă</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_global&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul global — pagină inexistentă">Global</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_medical&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul medical — pagină inexistentă">Medicină</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_politic&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul politic — pagină inexistentă">Politic</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_%C8%99tiin%C8%9Bific&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul științific — pagină inexistentă">Știință</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_sportiv&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul sportiv — pagină inexistentă">Sport</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_tehnologic&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul tehnologic — pagină inexistentă">Tehnic</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_comercial&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul comercial — pagină inexistentă">Comercial</a></li>
+<li><a href="/w/index.php?title=Raportarea_traficului&amp;action=edit&amp;redlink=1" class="new" title="Raportarea traficului — pagină inexistentă">Trafic</a></li>
+<li><a href="/w/index.php?title=Jurnalism_de_jocuri_video&amp;action=edit&amp;redlink=1" class="new" title="Jurnalism de jocuri video — pagină inexistentă">jocuri video</a></li>
+<li><a href="/w/index.php?title=Prognoza_meteo&amp;action=edit&amp;redlink=1" class="new" title="Prognoza meteo — pagină inexistentă">Meteo</a></li>
+<li><a href="/w/index.php?title=%C8%98tiri_mondiale&amp;action=edit&amp;redlink=1" class="new" title="Știri mondiale — pagină inexistentă">Mondiale</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Genuri</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Jurnalism_de_acces&amp;action=edit&amp;redlink=1" class="new" title="Jurnalism de acces — pagină inexistentă">Acces</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_de_sus%C8%9Binere&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul de susținere — pagină inexistentă">Advocacy</a></li>
+<li><a href="/w/index.php?title=Jurnalism_analitic&amp;action=edit&amp;redlink=1" class="new" title="Jurnalism analitic — pagină inexistentă">Analitic</a></li>
+<li><a class="mw-selflink selflink">Blogging</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_de_transmisiune&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul de transmisiune — pagină inexistentă">Transmisiune</a></li>
+<li><a href="/w/index.php?title=Churnalism&amp;action=edit&amp;redlink=1" class="new" title="Churnalism — pagină inexistentă">Churnalism</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_cet%C4%83%C8%9Benilor&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul cetățenilor — pagină inexistentă">Cetățean</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_civic&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul civic — pagină inexistentă">Civic</a></li>
+<li><a href="/w/index.php?title=Jurnalism_colaborativ&amp;action=edit&amp;redlink=1" class="new" title="Jurnalism colaborativ — pagină inexistentă">Colaborativ</a></li>
+<li><a href="/w/index.php?title=Jurnalism_comunitar&amp;action=edit&amp;redlink=1" class="new" title="Jurnalism comunitar — pagină inexistentă">Comunitar</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_datelor&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul datelor — pagină inexistentă">Data</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_bazelor_de_date&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul bazelor de date — pagină inexistentă">Baze de date</a></li>
+<li><a href="/w/index.php?title=Jurnalism_%C3%AEncorporat&amp;action=edit&amp;redlink=1" class="new" title="Jurnalism încorporat — pagină inexistentă">Încorporat</a></li>
+<li><a href="/wiki/Jurnalism_Gonzo" title="Jurnalism Gonzo">Gonzo</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_de_impact&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul de impact — pagină inexistentă">Impact</a></li>
+<li><a href="/w/index.php?title=Jurnalism_interpretativ&amp;action=edit&amp;redlink=1" class="new" title="Jurnalism interpretativ — pagină inexistentă">Interpretiv</a></li>
+<li><a href="/wiki/Jurnalismul_de_investiga%C8%9Bie" class="mw-redirect" title="Jurnalismul de investigație">Investigație</a></li>
+<li><a href="/w/index.php?title=Nonfic%C8%9Biune_creativ%C4%83&amp;action=edit&amp;redlink=1" class="new" title="Nonficțiune creativă — pagină inexistentă">Literară</a></li>
+<li><a href="/w/index.php?title=Muckraker&amp;action=edit&amp;redlink=1" class="new" title="Muckraker — pagină inexistentă">Muckraking</a></li>
+<li><a href="/wiki/Jurnalismul_narativ" title="Jurnalismul narativ">Narativ</a></li>
+<li><a href="/w/index.php?title=Noul_jurnalism&amp;action=edit&amp;redlink=1" class="new" title="Noul jurnalism — pagină inexistentă">Noul jurnalism</a></li>
+<li><a href="/w/index.php?title=Jurnalism_non-profit&amp;action=edit&amp;redlink=1" class="new" title="Jurnalism non-profit — pagină inexistentă">Jurnalism non-profit</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_digital&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul digital — pagină inexistentă">Online</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_de_opinie&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul de opinie — pagină inexistentă">Opinie</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_pentru_pace&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul pentru pace — pagină inexistentă">Pace</a></li>
+<li><a href="/w/index.php?title=Fotojurnalism&amp;action=edit&amp;redlink=1" class="new" title="Fotojurnalism — pagină inexistentă">Fotojurnalism</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_%C8%99tiin%C8%9Bific&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul științific — pagină inexistentă">Științific</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_vizual&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul vizual — pagină inexistentă">Vizual</a></li>
+<li><a href="/w/index.php?title=Jurnalismul_de_supraveghere&amp;action=edit&amp;redlink=1" class="new" title="Jurnalismul de supraveghere — pagină inexistentă">Watchdog</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Impact social</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fake_news" class="mw-redirect" title="Fake news">Fake news</a></li>
+<li><a href="/w/index.php?title=A_patra_putere&amp;action=edit&amp;redlink=1" class="new" title="A patra putere — pagină inexistentă">A patra putere</a></li>
+<li><a href="/wiki/Libertatea_presei" title="Libertatea presei">Libertatea presei</a></li>
+<li><a href="/w/index.php?title=Efectul_mediatic_ostil&amp;action=edit&amp;redlink=1" class="new" title="Efectul mediatic ostil — pagină inexistentă">Efectul mediatic ostil</a></li>
+<li><a href="/w/index.php?title=Infotainment&amp;action=edit&amp;redlink=1" class="new" title="Infotainment — pagină inexistentă">Infotainment</a></li>
+<li><a href="/w/index.php?title=Media_bias&amp;action=edit&amp;redlink=1" class="new" title="Media bias — pagină inexistentă">Media bias</a></li>
+<li><a href="/wiki/Rela%C8%9Bii_publice" title="Relații publice">Relații publice</a></li>
+<li><a href="/w/index.php?title=Jurnalism_galben&amp;action=edit&amp;redlink=1" class="new" title="Jurnalism galben — pagină inexistentă">Jurnalism galben</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pres%C4%83_(mijloace_de_informare)" title="Presă (mijloace de informare)">Presă</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ziar" title="Ziar">Ziar</a></li>
+<li><a href="/wiki/Revist%C4%83" title="Revistă">Revistă</a></li>
+<li><a href="/wiki/%C8%98tirea_de_radio" title="Știrea de radio">TV și radio</a></li>
+<li><a href="/w/index.php?title=Ziar_online&amp;action=edit&amp;redlink=1" class="new" title="Ziar online — pagină inexistentă">Internet</a></li>
+<li><a href="/wiki/Agen%C8%9Bie_de_%C8%99tiri" title="Agenție de știri">Agenții de știri</a></li>
+<li><a href="/w/index.php?title=Media_alternativ%C4%83&amp;action=edit&amp;redlink=1" class="new" title="Media alternativă — pagină inexistentă">Media alternativă</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/w/index.php?title=Index_al_articolelor_de_jurnalism&amp;action=edit&amp;redlink=1" class="new" title="Index al articolelor de jurnalism — pagină inexistentă">Lista articolelor de jurnalism</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1349
+Cached time: 20230101024540
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.092 seconds
+Real time usage: 0.121 seconds
+Preprocessor visited node count: 240/1000000
+Post‐expand include size: 19957/2097152 bytes
+Template argument size: 10/2097152 bytes
+Highest expansion depth: 5/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8318/5000000 bytes
+Lua time usage: 0.044/10.000 seconds
+Lua memory usage: 2280717/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   89.006      1 -total
+ 75.97%   67.620      2 Format:Citat_web
+ 11.86%   10.553      1 Format:Jurnalism
+  9.54%    8.493      1 Format:Navbox
+  6.16%    5.481      1 Format:Webarchive
+  2.82%    2.511      1 Format:En_icon
+  1.33%    1.183      1 Format:Indicație_limbă
+-->
+
+<!-- Saved in parser cache with key rowiki:pcache:idhash:20404-0!canonical and timestamp 20230101024540 and revision id 15239404.
+ -->
+</div><noscript><img src="//ro.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Adus de la <a dir="ltr" href="https://ro.wikipedia.org/w/index.php?title=Blog&amp;oldid=15239404">https://ro.wikipedia.org/w/index.php?title=Blog&amp;oldid=15239404</a></div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categorii" title="Special:Categorii">Categorii</a>: <ul><li><a href="/wiki/Categorie:Internet" title="Categorie:Internet">Internet</a></li><li><a href="/wiki/Categorie:Bloguri" title="Categorie:Bloguri">Bloguri</a></li><li><a href="/wiki/Categorie:Anglicisme" title="Categorie:Anglicisme">Anglicisme</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorie ascunsă: <ul><li><a href="/wiki/Categorie:Webarchive_template_wayback_links" title="Categorie:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>
+					
+				</div>
+				
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Ultima editare a paginii a fost efectuată la 29 octombrie 2022, ora 17:53.</li>
+	<li id="footer-info-copyright">Acest text este disponibil sub licența <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ro">Creative Commons cu atribuire și distribuire în condiții identice</a>;
+pot exista și clauze suplimentare.
+Vedeți detalii la <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use">Termenii de utilizare</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Politica de confidențialitate</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:Despre">Despre Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Termeni">Termeni</a></li>
+	<li id="footer-places-mobileview"><a href="//ro.m.wikipedia.org/w/index.php?title=Blog&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versiune mobilă</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Dezvoltatori</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ro.wikipedia.org">Statistici</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Declarație cookie</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.092","walltime":"0.121","ppvisitednodes":{"value":240,"limit":1000000},"postexpandincludesize":{"value":19957,"limit":2097152},"templateargumentsize":{"value":10,"limit":2097152},"expansiondepth":{"value":5,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8318,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   89.006      1 -total"," 75.97%   67.620      2 Format:Citat_web"," 11.86%   10.553      1 Format:Jurnalism","  9.54%    8.493      1 Format:Navbox","  6.16%    5.481      1 Format:Webarchive","  2.82%    2.511      1 Format:En_icon","  1.33%    1.183      1 Format:Indicație_limbă"]},"scribunto":{"limitreport-timeusage":{"value":"0.044","limit":"10.000"},"limitreport-memusage":{"value":2280717,"limit":52428800}},"cachereport":{"origin":"mw1349","timestamp":"20230101024540","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Blog","url":"https:\/\/ro.wikipedia.org\/wiki\/Blog","sameAs":"http:\/\/www.wikidata.org\/entity\/Q30849","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q30849","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-05T05:48:35Z","dateModified":"2022-10-29T15:53:11Z"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Blog","url":"https:\/\/ro.wikipedia.org\/wiki\/Blog","sameAs":"http:\/\/www.wikidata.org\/entity\/Q30849","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q30849","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-05T05:48:35Z","dateModified":"2022-10-29T15:53:11Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw1451"});});</script>
+</body>
+</html>
